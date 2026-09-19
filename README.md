@@ -18,6 +18,7 @@ This repository contains all my leetcode questions
 | [0771-jewels-and-stones](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +48,8 @@ This repository contains all my leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
