@@ -27,4 +27,12 @@ This repository contains all my leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
