@@ -45,6 +45,7 @@ This repository contains all my leetcode questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
@@ -75,4 +76,12 @@ This repository contains all my leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
