@@ -7,6 +7,7 @@ This repository contains all my leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0383-ransom-note](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -30,6 +31,7 @@ This repository contains all my leetcode questions
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0217-contains-duplicate](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -90,4 +92,8 @@ This repository contains all my leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
