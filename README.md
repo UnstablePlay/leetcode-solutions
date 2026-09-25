@@ -16,6 +16,7 @@ This repository contains all my leetcode questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
@@ -62,6 +63,7 @@ This repository contains all my leetcode questions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
