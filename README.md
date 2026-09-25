@@ -9,6 +9,7 @@ This repository contains all my leetcode questions
 | [0217-contains-duplicate](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0383-ransom-note](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0771-jewels-and-stones](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## String
@@ -16,6 +17,7 @@ This repository contains all my leetcode questions
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0771-jewels-and-stones](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -23,6 +25,7 @@ This repository contains all my leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
