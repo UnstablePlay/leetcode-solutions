@@ -39,6 +39,7 @@ This repository contains all my leetcode questions
 | [0349-intersection-of-two-arrays](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ This repository contains all my leetcode questions
 | [0349-intersection-of-two-arrays](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +108,12 @@ This repository contains all my leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
