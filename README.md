@@ -6,6 +6,7 @@ This repository contains all my leetcode questions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -31,6 +32,7 @@ This repository contains all my leetcode questions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0217-contains-duplicate](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
