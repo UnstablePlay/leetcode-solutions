@@ -60,6 +60,7 @@ This repository contains all my leetcode questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0258-add-digits](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
