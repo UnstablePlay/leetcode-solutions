@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
         vector<string> res;
-        std::map<int, std::string, std::greater<int>> s;
+        map<int,string,greater<int>> s;
         for (int i=0;i<heights.size();i++){
             s[heights[i]] = names[i];
         }
