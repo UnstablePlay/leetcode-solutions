@@ -17,6 +17,7 @@ This repository contains all my leetcode questions
 | [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2418-sort-the-people](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ This repository contains all my leetcode questions
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2418-sort-the-people](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@ This repository contains all my leetcode questions
 | [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [2418-sort-the-people](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -55,6 +58,7 @@ This repository contains all my leetcode questions
 | [0389-find-the-difference](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
+| [2418-sort-the-people](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
