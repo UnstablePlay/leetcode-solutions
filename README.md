@@ -17,6 +17,7 @@ This repository contains all my leetcode questions
 | [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2418-sort-the-people](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ This repository contains all my leetcode questions
 | [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2418-sort-the-people](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sorting
@@ -66,6 +68,7 @@ This repository contains all my leetcode questions
 | [0383-ransom-note](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
