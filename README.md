@@ -13,6 +13,7 @@ This repository contains all my leetcode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -45,6 +46,7 @@ This repository contains all my leetcode questions
 | [0349-intersection-of-two-arrays](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0645-set-mismatch](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -59,6 +61,7 @@ This repository contains all my leetcode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0645-set-mismatch](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [2418-sort-the-people](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -86,6 +89,7 @@ This repository contains all my leetcode questions
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
