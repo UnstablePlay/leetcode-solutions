@@ -51,6 +51,7 @@ This repository contains all my leetcode questions
 | [0500-keyboard-row](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0645-set-mismatch](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1037-valid-boomerang](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -82,6 +83,7 @@ This repository contains all my leetcode questions
 | [0258-add-digits](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
+| [1037-valid-boomerang](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1037-valid-boomerang/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +146,8 @@ This repository contains all my leetcode questions
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1037-valid-boomerang](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1037-valid-boomerang/) | Easy |
 <!---LeetCode Topics End-->
