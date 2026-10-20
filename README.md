@@ -50,6 +50,7 @@ This repository contains all my leetcode questions
 | [0414-third-maximum-number](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0500-keyboard-row](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0645-set-mismatch](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1037-valid-boomerang](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
@@ -66,6 +67,7 @@ This repository contains all my leetcode questions
 | [0389-find-the-difference](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [2418-sort-the-people](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
