@@ -13,6 +13,7 @@ This repository contains all my leetcode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0500-keyboard-row](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0645-set-mismatch](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -48,6 +49,7 @@ This repository contains all my leetcode questions
 | [0349-intersection-of-two-arrays](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0500-keyboard-row](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0645-set-mismatch](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -66,6 +68,7 @@ This repository contains all my leetcode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
