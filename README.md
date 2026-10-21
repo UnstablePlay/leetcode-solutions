@@ -7,6 +7,7 @@ This repository contains all my leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0205-isomorphic-strings](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -25,6 +26,7 @@ This repository contains all my leetcode questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
