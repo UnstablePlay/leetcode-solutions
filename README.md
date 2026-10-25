@@ -44,6 +44,7 @@ This repository contains all my leetcode questions
 | [0001-two-sum](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -157,4 +158,8 @@ This repository contains all my leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1037-valid-boomerang](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1037-valid-boomerang/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
