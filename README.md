@@ -37,6 +37,7 @@ This repository contains all my leetcode questions
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2418-sort-the-people](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ This repository contains all my leetcode questions
 | [0645-set-mismatch](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2418-sort-the-people](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/UnstablePlay/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Counting
@@ -149,6 +151,7 @@ This repository contains all my leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
