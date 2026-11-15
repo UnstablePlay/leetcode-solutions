@@ -59,6 +59,7 @@ This repository contains all my leetcode questions
 | [0747-largest-number-at-least-twice-of-others](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1037-valid-boomerang](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1037-valid-boomerang/) | Easy |
+| [1046-last-stone-weight](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -165,4 +166,8 @@ This repository contains all my leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UnstablePlay/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/UnstablePlay/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
